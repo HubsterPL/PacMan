@@ -7,5 +7,5 @@
  -Looping/Teleporting through map borders
 
 ## Known issues
- -Agents get stuck on map borders
+ -Agents get stuck on map borders<br>
  -Ghost get stuck on turns, when TurnAround method is called right after.
