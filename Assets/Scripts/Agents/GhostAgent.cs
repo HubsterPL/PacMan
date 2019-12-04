@@ -109,6 +109,7 @@ public class GhostAgent : ALevelAgent
     }
 
     public void TurnAround() {
+        intPos += directionVector;
         switch (CurrentDirection) {
             case MoveDirection.NORTH:
                 CurrentDirection = MoveDirection.SOUTH;
