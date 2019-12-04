@@ -5,6 +5,3 @@
  -Pacman death sequence<br>
  -Limited number of lifes<br>
  -Looping/Teleporting through map borders
-
-## Known issues
- -Agents get stuck on map borders
